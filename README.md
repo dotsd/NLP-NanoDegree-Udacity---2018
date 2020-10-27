@@ -2,15 +2,23 @@
 Natural Language Processing Nano Degree From Udacity @2018
 
 
-I used a ''Ubuntu 16.04'' to run this code with a Nvidia GPU installed on the Ubuntu host.
+I used ``Ubuntu 16.04`` to run this code with a Nvidia GPU installed .
 
-You can create a ''Conda Virtual'' env using the .yml file 
-''' conda env create -f conda-env.yml '''
+You can create a [Conda virtual Env](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) using yml file .
+```python
+conda env create -f conda-env.yml 
+```
 
-or maybe a new one try to install every dependcies by your own
-'''conda create --name mynlpenv'''
+or maybe a new one try to install every dependcies .
 
-and you have to ''activate'' your ''conda enviornment''
-'''conda activate ./envs'''
+```bash
+conda create --name mynlpenv
+```
+and you have to `activate` the enviormnet.
 
-The created virtual environment contains all the required Python libraries to execute this projects.
+```bash
+conda activate ./envs
+```
+The created virtual environment contains all the required Python libraries to execute this projects .
+
+
