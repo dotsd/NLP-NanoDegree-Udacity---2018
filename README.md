@@ -2,7 +2,8 @@
 Natural Language Processing @2018
 
 
-![NLP] (sd_nlp_nd_udacity.png)
+![](sd_nlp_nd_udacity.png)
+
 
 
 # Projects of Natural Language Processing
